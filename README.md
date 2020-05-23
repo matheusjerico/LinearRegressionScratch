@@ -23,10 +23,6 @@ O seu relatório será o notebook exportado para um arquivo HTML e deve conter:
 
 #### 2. R2 Score
 
-```python
-lRegression.r2()
-```
-
     0.9444904768158006
 
 **Análise:** 
@@ -44,7 +40,7 @@ lRegression.r2()
     198.486116140131
 
 
-#### 3.1. RMSE do Algorítmo Scikit-Learn
+#### 3.2. RMSE do Algorítmo Scikit-Learn
 
     198.48611614013106
 
